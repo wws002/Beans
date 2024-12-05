@@ -1,0 +1,1 @@
+print("as it turns out, pinto is just 'pinto' in spanish, learn something new every day, except most days")
